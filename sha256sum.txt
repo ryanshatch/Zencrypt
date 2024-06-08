@@ -1,0 +1,5 @@
+7dbfbab5f39ab94082e23deaf6fa335533b8fd21ee76f00fcdf1b781c3a8d38f  C:/Users/rshat/Documents/Coding/Zencrypt/ryanshatch_0x38771BE8_public.asc
+7d57368948791aa369df3f2c4299c7bb9dcb3dc45f03e148d71fd6c3068d73af  C:/Users/rshat/Documents/Coding/Zencrypt/sha256sum.txt
+8a295816858f4d48b0fd88f70475efb9069060cda93e605002719c9d73601cb2  C:/Users/rshat/Documents/Coding/Zencrypt/zencrypt.exe
+a88585dba906802d4b6ff9197fe8d43a07028a530d81dee4f6d0000d4c90d27e  C:/Users/rshat/Documents/Coding/Zencrypt/Zencrypt-CLI-Archive.tar.gpg
+ae2fd82d9c881f76cdf3ca0360b4b73689c81c630d636d053cf5f3ce16b08b58  C:/Users/rshat/Documents/Coding/Zencrypt/README.md
