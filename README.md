@@ -98,7 +98,7 @@ Version: 2.2.6                   ***********************************************
     <center>
       <img alt="Cipher Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/Images/zencrypt.PNG" style="width: 100%; height: 100%;" />
     </center><br><hr>
-    <h3 align="center">Encrypting Parsed Files:</h3><h2></h2>
+    <h3 align="center">Encrypting Files:</h3><h2></h2>
     <center>
       <img alt="Cipher Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/Images/encrypt.PNG" style="width: 100%; height: 50%;" />
     </center><br><hr>
