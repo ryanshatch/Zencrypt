@@ -89,26 +89,26 @@ Version: 2.2.6                   ***********************************************
       </strong>
       </br>
     </p>
-    <h2 id="examples">Examples</h2>
-    <h3 align="center">Hashing:</h3>
+    <h2 id="examples">Examples</h2><br><hr>
+    <h3 align="center">Hashing:</h3><h2></h2>
     <center>
-      <img alt="Hashing Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/zencrypthash.png" style="width: 100%; height: 100%;" />
-    </center>
-    <h3 align="center">Cipher:</h3>
+      <img alt="Hashing Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/Images/zencrypthash.png" style="width: 100%; height: 100%;" />
+    </center><br><hr>
+    <h3 align="center">Cipher:</h3><h2></h2>
     <center>
-      <img alt="Cipher Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/zencrypt.PNG" style="width: 100%; height: 100%;" />
-    </center>
-    <h3 align="center">Encrypting Parsed Files:</h3>
+      <img alt="Cipher Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/Images/zencrypt.PNG" style="width: 100%; height: 100%;" />
+    </center><br><hr>
+    <h3 align="center">Encrypting Parsed Files:</h3><h2></h2>
     <center>
-      <img alt="Cipher Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/encrypt.PNG" style="width: 100%; height: 50%;" />
-    </center>
-        <h3 align="center">PGP Encryption:</h3>
+      <img alt="Cipher Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/Images/encrypt.PNG" style="width: 100%; height: 50%;" />
+    </center><br><hr>
+        <h3 align="center">PGP Encryption:</h3><h2></h2>
     <center>
-      <img alt="Cipher Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/pgpencryption.PNG" style="width: 100%; height: 50%;" />
-    </center>
+      <img alt="Cipher Example" src="https://github.com/ryanshatch/Zencrypt/blob/main/Images/pgpencryption.PNG" style="width: 100%; height: 50%;" />
+    </center><br><hr>
     </p>
-    <hr><br>
-    <h1 align="center" id="How To Use PGP Encryption">How To Use PGP Encryption:</h1>
+<!--     <hr><br> -->
+    <h1 align="center" id="How To Use PGP Encryption">How To Use PGP Encryption:</h1><hr>
     </p>
     <p align="center">
     <h2 id="intro"><strong>Intro</strong></h2>
@@ -159,7 +159,8 @@ Version: 2.2.6                   ***********************************************
       <li>Regularly update and manage your key pair.</li>
       <li>Use strong passwords for your private key.</li>
     </ol>
-    <hr><br>
+    <hr>
+<!--     <br> -->
     <h2 align="center" id="contributing">Contributing</h2>
     <ol>
       <p align="center">
@@ -210,14 +211,14 @@ Version: 2.2.6                   ***********************************************
       <!-- <p align="center"><strong><=><=><=></strong></br></p> -->
     <p align="center">
       <strong>
-        <code>This script is provided for educational and demonstration purposes only. <br>Use it responsibly and please adhere to all applicable laws and regulations. </code>
+        <strong><b><i>This script is provided for educational and demonstration purposes only. <br>Use it responsibly and please adhere to all applicable laws and regulations. </strong></i></b>
       </strong>
       </br>
     </p>
-    <!-- <strong>This script is provided for educational and demonstration purposes only. Use it responsibly and adhere to all applicable laws and regulations.</strong></br></p> -->
+    <strong>This script is provided for educational and demonstration purposes only. Use it responsibly and adhere to all applicable laws and regulations.</strong></br></p>
     <p align="center">
       <strong>
-        <code>I am absolutely immune from any responsibility in regaurds to any damages or loss of data caused by the <br>use, abuse, or misuse of this software. </code>
+        <strong><b><i>I am absolutely immune from any responsibility in regaurds to any damages or loss of data caused by the <br>use, abuse, or misuse of this software. </strong></i></b>
       </strong>
       </br>
       <!-- <p align="center"><strong><=><=><=></strong></br></p> -->
