@@ -33,10 +33,22 @@ Version: 2.2.6                   ***********************************************
     <p align="center">
       <a href="#intro">Intro</a> • <a href="#key-concepts">Key Concepts</a> • <a href="#setting-up">Setting Up</a> • <a href="#encrypting-messages">Encrypting Messages</a> • <a href="#decrypting-messages">Decrypting Messages</a> • <a href="#key-management">Key Management</a>
     <hr>
-    <p align="center">
+<!--     <p align="center"> -->
 <!--       <br> -->
-      <strong>By: Ryan Hatch</strong>
-    <p align="center"> &copy; 2023 Ryan Hatch <br> All Rights Reserved. </p>
+<!--       <strong>By: Ryan Hatch</strong>
+    <p align="center"> &copy; 2023 Ryan Hatch <br> All Rights Reserved. </p><hr> -->
+    <!-- PGP Note -->
+    <p align="center">
+    <b><i>Please send me a message on Github, email, or text if you would like to decrypt and use Zencrypt CLI. Its a VERY quick process; PLEASE do not hesitate to reach out.<br>I will provide you with everything to decrypt all of the files from the signed archive.</b></i><br>
+    <hr></p>
+    <p align="center">
+    <i>This is a kind remember to always verify and double check the validity of a program before installing anything, via the given fingerprints and SHA256 Checksums are <b>ALWAYS</b> supposed to match.</i>
+    <br></p>
+    <p align="center"><li><b>public key:</b> <code>ryanshatch</code><br></p>
+    <p align="center"><li><b>Fingerprint:</b> <code>5668E82AF338E8055DDC5C45A60912A538771BE8</code></p>
+    <h2></h2>
+    <p align="center"><strong>By: Ryan Hatch</strong>
+    <p align="center"> &copy; 2023 Ryan Hatch <br> All Rights Reserved. </p><hr>
     <h2 id="introduction">Introduction</h2>
     <p> This project provides a command-line interface for managing hashes and encryption for input text. It includes both a Python and a Java implementation along with a lite version in C++.</p>
     <ul>
