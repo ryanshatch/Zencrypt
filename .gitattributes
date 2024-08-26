@@ -1,8 +1,7 @@
-*.png linguist-detectable=true
 *.png linguist-language=C++
-*.sig linguist-detectable=true
 *.sig linguist-language=Swift
-*.md linguist-language=Java
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
 *.gpg linguist-detectable=true
 *.gpg linguist-language=Python
 *.asc linguist-language=Java
