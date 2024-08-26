@@ -1,9 +1,13 @@
 *.png linguist-language=C++
-*.sig linguist-language=Swift
+*.sig linguist-language=C++
+*.sig linguist-language=c++
+*.md linguist-language=C++
 *.md linguist-detectable=true
-*.md linguist-language=Markdown
+*.md linguist-language=C++
+*.md linguist-language=c++
 *.gpg linguist-detectable=true
 *.gpg linguist-language=Python
+*.tar.gpg linguist-language=Python
 *.asc linguist-language=Java
 *.txt linguist-detectable=true
 *.txt linguist-language=Batchfile
