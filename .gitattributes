@@ -1,27 +1,14 @@
+Zencrypt-CLI-Encrypted-Archive.tar.gpg linguist-language=Python
+Zencrypt-CLI-Encrypted-Archive.tar.gpg linguist-detectable=true
 
-*.png linguist-language=C++
-*.png linguist-language=c++
+ryanshatch_0x38771BE8_public.asc linguist-language=Python
+ryanshatch_0x38771BE8_public.asc linguist-detectable=true
 
+sha256sum.txt linguist-language=txt
+sha256sum.txt linguist-detectable=true
 
-*.sig linguist-language=Swift
-*.sig linguist-language=swift
+zencrypt.exe linguist-language=Bat
+zencrypt.exe linguist-detectable=true
 
-
-*.md linguist-language=Java
-*.md linguist-language=java
-
-
-*.gpg linguist-language=Python
-*.gpg linguist-language=python
-
-
-*.asc linguist-language=Python
-*.asc linguist-language=python
-
-
-*.txt linguist-language=Bat
-*.txt linguist-language=bat
-
-
-*.exe linguist-language=Python
-*.exe linguist-language=Python
+README.md linguist-language=Java
+README.md linguist-detectable=true
