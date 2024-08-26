@@ -39,3 +39,18 @@ zencrypt.exe.sig linguist-detectable=true
 
 zencrypthash.png.sig linguist-language=Java
 zencrypthash.png.sig linguist-detectable=true
+
+encrypt.PNG linguist-language=C++
+encrypt.PNG linguist-detectable=true
+
+pgpencryption.PNG linguist-language=C++
+pgpencryption.PNG linguist-detectable=true
+
+sha256sum.txt linguist-language=C++
+sha256sum.txt linguist-detectable=true
+
+zencrypt.PNG linguist-language=C++
+zencrypt.PNG linguist-detectable=true
+
+zencrypthash.png linguist-language=C++
+zencrypthash.png linguist-detectable=true
