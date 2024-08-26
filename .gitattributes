@@ -1,20 +1,10 @@
-*.png linguist-detectable=true
-*.png linguist-language=C++
-
-*.sig linguist-detectable=true
-*.sig linguist-language=Swift
-
-*.md linguist-detectable=true
-*.md linguist-language=Java
-
+*.png linguist-detectable=C++
+*.sig linguist-detectable=Swift
+*.md linguist-detectable=Java
 *.gpg linguist-detectable=true
 *.gpg linguist-language=Python
-
-*.asc linguist-detectable=true
-*.asc linguist-language=Python
-
+*.asc linguist-detectable=Java
 *.txt linguist-detectable=true
 *.txt linguist-language=Batchfile
-
 *.exe linguist-detectable=true
 *.exe linguist-language=Batchfile
