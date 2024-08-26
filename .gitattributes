@@ -1,27 +1,27 @@
-*.png linguist-detectable=true
+
 *.png linguist-language=C++
 *.png linguist-language=c++
 
-*.sig linguist-detectable=true
+
 *.sig linguist-language=Swift
 *.sig linguist-language=swift
 
-*.md linguist-detectable=true
+
 *.md linguist-language=Java
 *.md linguist-language=java
 
-*.gpg linguist-detectable=true
+
 *.gpg linguist-language=Python
 *.gpg linguist-language=python
 
-*.asc linguist-detectable=true
+
 *.asc linguist-language=Python
 *.asc linguist-language=python
 
-*.txt linguist-detectable=true
+
 *.txt linguist-language=Bat
 *.txt linguist-language=bat
 
-*.exe linguist-detectable=true
+
 *.exe linguist-language=Python
 *.exe linguist-language=Python
