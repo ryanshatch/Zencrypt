@@ -4,10 +4,10 @@ Zencrypt-CLI-Encrypted-Archive.tar.gpg linguist-detectable=true
 ryanshatch_0x38771BE8_public.asc linguist-language=Python
 ryanshatch_0x38771BE8_public.asc linguist-detectable=true
 
-sha256sum.txt linguist-language=txt
+sha256sum.txt linguist-language=Java
 sha256sum.txt linguist-detectable=true
 
-zencrypt.exe linguist-language=Bat
+zencrypt.exe linguist-language=Java
 zencrypt.exe linguist-detectable=true
 
 README.md linguist-language=Java
