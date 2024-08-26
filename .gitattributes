@@ -23,5 +23,5 @@
 *.txt linguist-language=bat
 
 *.exe linguist-detectable=true
-*.exe linguist-language=Bat
-*.exe linguist-language=bat
+*.exe linguist-language=Python
+*.exe linguist-language=Python
