@@ -25,19 +25,19 @@ encrypt.PNG.sig linguist-detectable=true
 pgpencryption.PNG.sig linguist-language=Java
 pgpencryption.PNG.sig linguist-detectable=true
 
-ryanshatch_0x38771BE8_public.asc.sig linguist-language=Java
+ryanshatch_0x38771BE8_public.asc.sig linguist-language=C++
 ryanshatch_0x38771BE8_public.asc.sig linguist-detectable=true
 
-sha256sum.txt.sig linguist-language=Java
+sha256sum.txt.sig linguist-language=C++
 sha256sum.txt.sig linguist-detectable=true
 
-zencrypt.PNG.sig linguist-language=Java
+zencrypt.PNG.sig linguist-language=C++
 zencrypt.PNG.sig linguist-detectable=true
 
-zencrypt.exe.sig linguist-language=Java
+zencrypt.exe.sig linguist-language=C++
 zencrypt.exe.sig linguist-detectable=true
 
-zencrypthash.png.sig linguist-language=Java
+zencrypthash.png.sig linguist-language=C++
 zencrypthash.png.sig linguist-detectable=true
 
 encrypt.PNG linguist-language=C++
